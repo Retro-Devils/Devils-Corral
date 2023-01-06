@@ -26,10 +26,8 @@ A open source lightgun image built for all guns.
     -
     
     -
-    
-- Total # Of Games
-   
-   XXXXXX
+       
+
    
 # FAQ
 
@@ -42,5 +40,11 @@ A open source lightgun image built for all guns.
             For Sinden
             
                 When game is loading pick normal emu . Example flycast or lceumm. 
+                
+            Does this come with games ?
+            
+                No or bios. Thiers probably a loaded version out thier.
+                
+            
             
            
