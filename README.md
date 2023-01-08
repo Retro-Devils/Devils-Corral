@@ -17,8 +17,16 @@ A open source lightgun image built for all guns.
     - China clones
     
     
-- Supported Emus
+- Supported Systems
 
+    - Atari 800
+    
+    - Commadore 64 
+    
+    - NES
+    
+    - SNES
+    
     -
     
     -
