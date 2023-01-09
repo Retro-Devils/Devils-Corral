@@ -8,13 +8,13 @@ A open source lightgun image built for all guns.
 
 - Built for following guns
 
-    - Sinden
+        - Sinden
     
-    - Gun4IR
+        - Gun4IR
     
-    - Wii Mote
+        - Wii Mote
     
-    - China clones
+        - China clones
     
     
 - Supported Systems
@@ -43,7 +43,7 @@ A open source lightgun image built for all guns.
        
 # FAQ
 
-    - How do I pick different gun types?
+- How do I pick different gun types?
     
             For Gun4IR, Wii Mote, & China Clone
     
@@ -53,11 +53,11 @@ A open source lightgun image built for all guns.
             
                 When game is loading pick normal emu . Example flycast or lceumm. 
                 
-    - Does this come with games ?
+- Does this come with games ?
             
                 No or bios. Thiers probably a loaded version out thier.
                 
-    - Does this support more than Light gun games? 
+- Does this support more than Light gun games? 
             
                 Yes. Thanks to Sinden Barebones. 
                 
