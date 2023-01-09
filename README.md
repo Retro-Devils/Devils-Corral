@@ -38,7 +38,9 @@ A open source lightgun image built for all guns.
     
     - PS1
     
-    - Segacd
+    - SegaCD
+    
+    - Wine 
        
 
    
