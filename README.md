@@ -18,22 +18,27 @@ A open source lightgun image built for all guns.
     
     
 - Supported Systems
-
-    - Atari 800
+    - Arcade
     
-    - Commadore 64 
+    - Atari2600
+    
+    - Commadore64
+    
+    - Daphne
+
+    - Dreamcast
+    
+    - Mastersystem
+    
+    - Megadrive
     
     - NES
+
+    - PNP
     
-    - SNES
+    - PS1
     
-    -
-    
-    -
-    
-    -
-    
-    -
+    - Segacd
        
 
    
