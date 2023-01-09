@@ -60,6 +60,12 @@ A open source lightgun image built for all guns.
             
                 No or bios. Thiers probably a loaded version out thier.
                 
+            Does this support more than Light gun games? 
+            
+                Yes. Thanks to Sinden Barebones. 
+                
+                Gun games are stored in roms/systemname/Lightgun_Games. Other games are stored /roms/systemname/
+                
             
             
            
