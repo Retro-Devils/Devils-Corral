@@ -66,6 +66,13 @@ A open source lightgun image built for all guns.
                 
                 Gun games are stored in roms/systemname/Lightgun_Games. Other games are stored /roms/systemname/
                 
+                
+# Download Link
+
+- COMING SOON 
+
+
+                
             
             
            
