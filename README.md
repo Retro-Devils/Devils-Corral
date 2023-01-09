@@ -18,32 +18,29 @@ A open source lightgun image built for all guns.
     
     
 - Supported Systems
-    - Arcade
-    
-    - Atari2600
-    
-    - Commadore64
-    
-    - Daphne
-
-    - Dreamcast
-    
-    - Mastersystem
-    
-    - Megadrive
-    
-    - NES
-
-    - PNP
-    
-    - PS1
-    
-    - SegaCD
-    
-    - Wine 
-       
-
    
+        - Arcade
+    
+        - Atari2600
+    
+        - Commadore64
+    
+        - Daphne
+
+        - Dreamcast
+    
+        - Mastersystem
+    
+        - Megadrive
+    
+        - NES
+    
+        - PS1
+    
+        - SegaCD
+    
+        - Wine 
+       
 # FAQ
 
     - How do I pick different gun types?
@@ -56,11 +53,11 @@ A open source lightgun image built for all guns.
             
                 When game is loading pick normal emu . Example flycast or lceumm. 
                 
-            Does this come with games ?
+    - Does this come with games ?
             
                 No or bios. Thiers probably a loaded version out thier.
                 
-            Does this support more than Light gun games? 
+    - Does this support more than Light gun games? 
             
                 Yes. Thanks to Sinden Barebones. 
                 
