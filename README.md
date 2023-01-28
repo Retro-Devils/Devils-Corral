@@ -8,6 +8,8 @@ A open source lightgun image built for all guns.
 
 - Built for following guns
 
+        - AE Lightgun
+
         - Sinden
     
         - Gun4IR
@@ -45,17 +47,11 @@ A open source lightgun image built for all guns.
 
 - How do I pick different gun types?
     
-            For Gun4IR, Wii Mote, & China Clone
-    
-                When game is loading press a pick "Gun4ir-Flycst", "Wii-Flycast" or "ChinaGun-Flycast"
-            
-            For Sinden
-            
-                When game is loading pick normal emu . Example flycast or lceumm. 
+                When game is laoding set default emu for each system to Lightgun-YOURGUN
                 
 - Does this come with games ?
             
-                No or bios. Thiers probably a loaded version out thier.
+                No or bios. Thiers probably a loaded version out thier. ;)
                 
 - Does this support more than Light gun games? 
             
