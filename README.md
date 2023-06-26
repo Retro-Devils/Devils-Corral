@@ -1,4 +1,4 @@
-# Devils Corral
+⁹# Devils Corral
 
 A open source lightgun image built for all guns.
 
@@ -48,10 +48,6 @@ A open source lightgun image built for all guns.
 - How do I pick different gun types?
     
                 When game is laoding set default emu for each system to Lightgun-YOURGUN
-                
-- Does this come with games ?
-            
-                No or bios. Thiers probably a loaded version out thier. ;)
                 
 - Does this support more than Light gun games? 
             
