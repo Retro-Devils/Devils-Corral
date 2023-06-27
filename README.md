@@ -10,6 +10,8 @@ A open source lightgun image built for all guns.
 
         - AE Lightgun
 
+        - Fusion Guns
+
         - Sinden
     
         - Gun4IR
